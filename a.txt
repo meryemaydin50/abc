@@ -1,0 +1,16 @@
+git init
+git status
+git add <filename>
+git status
+git commit -m “commit” <filename>
+git status
+
+go to github create new repository
+create new token
+
+git remote add origin https://[TOKEN]@github.com/[USERNAME]/[REPO-NAME]
+git push -u origin main
+
+
+git add a.txt
+git commit -m “the change you made”
